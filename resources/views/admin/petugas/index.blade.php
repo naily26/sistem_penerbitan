@@ -17,7 +17,7 @@
 
                 </ol>
                 <div class="page-header">
-                    <h1>Data Petugas <small> </small></h1>
+                    <h1>Data Petugass <small> </small></h1>
                 </div>
                 <!-- end: PAGE TITLE & BREADCRUMB -->
             </div>
